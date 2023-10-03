@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="231ec278-6354-408f-abdf-203fdde2bdc5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation>
+            <after_sync>
+              <task name="setupDependencies" />
+            </after_sync>
+          </activation>
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="plugInFinale" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UvR5aCpuAYRGlpfnEfHlB08oN0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/carlo/Desktop/progetto/plugInFinale/build/libs/plugInFinale-1.0-SNAPSHOT.jar&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.plugin.pluginfinale" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\carlo\Desktop\progetto\plugInFinale\lib" />
+      <recent name="C:\Users\carlo\Desktop\progetto\plugInFinale\build\tmp\jar" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.plugin.pluginfinale" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle clean" />
+      <command value="gradle jar" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.plugInFinale [jar]">
+    <configuration name="plugInFinale [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="plugInFinale [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.plugInFinale [jar]" />
+        <item itemvalue="Gradle.plugInFinale [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="231ec278-6354-408f-abdf-203fdde2bdc5" name="Changes" comment="" />
+      <created>1693817888034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693817888034</updated>
+      <workItem from="1693817889898" duration="2307000" />
+      <workItem from="1693820267290" duration="555000" />
+      <workItem from="1693820857935" duration="101000" />
+      <workItem from="1693820986152" duration="438000" />
+      <workItem from="1693821462355" duration="431000" />
+      <workItem from="1693821925549" duration="626000" />
+      <workItem from="1693822585678" duration="301000" />
+      <workItem from="1693822920319" duration="253000" />
+      <workItem from="1693823206041" duration="325000" />
+      <workItem from="1693823563285" duration="242000" />
+      <workItem from="1693823829933" duration="393000" />
+      <workItem from="1693824248219" duration="514000" />
+      <workItem from="1693824810127" duration="1318000" />
+      <workItem from="1693826194512" duration="432000" />
+      <workItem from="1693826656066" duration="255000" />
+      <workItem from="1693826945042" duration="196000" />
+      <workItem from="1693827173238" duration="1495000" />
+      <workItem from="1693828702210" duration="610000" />
+      <workItem from="1693829352996" duration="579000" />
+      <workItem from="1693829966652" duration="943000" />
+      <workItem from="1693830947808" duration="319000" />
+      <workItem from="1693831302296" duration="654000" />
+      <workItem from="1693831986413" duration="206000" />
+      <workItem from="1693832225341" duration="323000" />
+      <workItem from="1693832578008" duration="419000" />
+      <workItem from="1693833029402" duration="421000" />
+      <workItem from="1693833484541" duration="146000" />
+      <workItem from="1693833660413" duration="253000" />
+      <workItem from="1693833944392" duration="138000" />
+      <workItem from="1693834109253" duration="262000" />
+      <workItem from="1693834402983" duration="286000" />
+      <workItem from="1693834713859" duration="1018000" />
+      <workItem from="1693836684626" duration="127000" />
+      <workItem from="1693836845979" duration="554000" />
+      <workItem from="1693837430696" duration="901000" />
+      <workItem from="1693838362774" duration="1263000" />
+      <workItem from="1693850678586" duration="211000" />
+      <workItem from="1693850924108" duration="487000" />
+      <workItem from="1693851440951" duration="515000" />
+      <workItem from="1693898647431" duration="199000" />
+      <workItem from="1693898882794" duration="1352000" />
+      <workItem from="1693900942723" duration="232000" />
+      <workItem from="1693901199056" duration="361000" />
+      <workItem from="1693901585497" duration="262000" />
+      <workItem from="1693901872975" duration="693000" />
+      <workItem from="1693902592024" duration="1105000" />
+      <workItem from="1693904058367" duration="415000" />
+      <workItem from="1693904509087" duration="905000" />
+      <workItem from="1693905446131" duration="1291000" />
+      <workItem from="1693908326303" duration="1205000" />
+      <workItem from="1693909648285" duration="438000" />
+      <workItem from="1693910114131" duration="1283000" />
+      <workItem from="1693911630730" duration="395000" />
+      <workItem from="1693912052755" duration="518000" />
+      <workItem from="1693912598756" duration="254000" />
+      <workItem from="1693912879352" duration="1333000" />
+      <workItem from="1693914240874" duration="692000" />
+      <workItem from="1693914957406" duration="163000" />
+      <workItem from="1693915143959" duration="170000" />
+      <workItem from="1693915340038" duration="404000" />
+      <workItem from="1693915766689" duration="517000" />
+      <workItem from="1693916310980" duration="473000" />
+      <workItem from="1693936016442" duration="2314000" />
+      <workItem from="1693988462484" duration="6429000" />
+      <workItem from="1693999182688" duration="1875000" />
+      <workItem from="1694003540516" duration="335000" />
+      <workItem from="1694003911069" duration="382000" />
+      <workItem from="1694004334617" duration="365000" />
+      <workItem from="1694004742774" duration="370000" />
+      <workItem from="1694005151157" duration="814000" />
+      <workItem from="1694006020585" duration="791000" />
+      <workItem from="1694006852872" duration="260000" />
+      <workItem from="1694007142026" duration="48000" />
+      <workItem from="1694007297481" duration="3651000" />
+      <workItem from="1694015220336" duration="355000" />
+      <workItem from="1694015605396" duration="1626000" />
+      <workItem from="1694017639744" duration="1937000" />
+      <workItem from="1694020108249" duration="4989000" />
+      <workItem from="1694025136085" duration="4055000" />
+      <workItem from="1694030866733" duration="105000" />
+      <workItem from="1694075286545" duration="2305000" />
+      <workItem from="1694081132683" duration="168000" />
+      <workItem from="1694251297067" duration="4183000" />
+      <workItem from="1694678108497" duration="344000" />
+      <workItem from="1694678543709" duration="6727000" />
+      <workItem from="1694690784930" duration="413000" />
+      <workItem from="1694691231914" duration="398000" />
+      <workItem from="1694691663571" duration="414000" />
+      <workItem from="1694692110836" duration="219000" />
+      <workItem from="1694692361460" duration="711000" />
+      <workItem from="1694774750649" duration="149000" />
+      <workItem from="1694775281147" duration="1656000" />
+      <workItem from="1694804943185" duration="2821000" />
+      <workItem from="1694852905656" duration="9603000" />
+      <workItem from="1695036646098" duration="343000" />
+      <workItem from="1695037021832" duration="114000" />
+      <workItem from="1695110166100" duration="3107000" />
+      <workItem from="1695216573679" duration="909000" />
+      <workItem from="1695228806159" duration="1108000" />
+      <workItem from="1695229957171" duration="1727000" />
+      <workItem from="1695286588475" duration="2084000" />
+      <workItem from="1695289900238" duration="2759000" />
+      <workItem from="1695293450630" duration="1111000" />
+      <workItem from="1695295264232" duration="903000" />
+      <workItem from="1695296224806" duration="543000" />
+      <workItem from="1695296804555" duration="215000" />
+      <workItem from="1695297050199" duration="1460000" />
+      <workItem from="1695298567730" duration="252000" />
+      <workItem from="1695298853098" duration="709000" />
+      <workItem from="1695299592466" duration="1154000" />
+      <workItem from="1695300982218" duration="2252000" />
+      <workItem from="1695303369659" duration="120000" />
+      <workItem from="1695324836858" duration="3151000" />
+      <workItem from="1695328064370" duration="1292000" />
+      <workItem from="1695368681039" duration="5467000" />
+      <workItem from="1695455615244" duration="1209000" />
+      <workItem from="1695456866044" duration="882000" />
+      <workItem from="1695458321073" duration="1768000" />
+      <workItem from="1695460128929" duration="547000" />
+      <workItem from="1695462285166" duration="416000" />
+      <workItem from="1695462735170" duration="957000" />
+      <workItem from="1695463803439" duration="227000" />
+      <workItem from="1695551386481" duration="32000" />
+      <workItem from="1695565578131" duration="1033000" />
+      <workItem from="1695566797903" duration="210000" />
+      <workItem from="1695567034822" duration="1386000" />
+      <workItem from="1696252473888" duration="3228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

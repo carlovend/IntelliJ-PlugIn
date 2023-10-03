@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="231ec278-6354-408f-abdf-203fdde2bdc5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.3/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IntellijPlugin.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_24_0_0.xml" beforeDir="false" />
+    <list default="true" id="231ec278-6354-408f-abdf-203fdde2bdc5" name="Changes" comment="Adding web Service">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/Actions/HighlightAntipattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/Actions/HighlightAntipattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/Actions/MyEditorMouseListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/Actions/MyEditorMouseListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/Refactoring/RefactoringA1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/Refactoring/RefactoringA1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/Refactoring/RefactoringA2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/Refactoring/RefactoringA2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/Refactoring/RefactoringA3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/Refactoring/RefactoringA3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/Refactoring/RefactoringD1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/Refactoring/RefactoringD1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/WebService/DataInputDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/WebService/DataInputDialog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/WebService/Toolbar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/plugin/IntelliJPlugin/WebService/Toolbar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +55,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -427,12 +413,24 @@
       <workItem from="1695566797903" duration="210000" />
       <workItem from="1695567034822" duration="1386000" />
       <workItem from="1696252473888" duration="3228000" />
-      <workItem from="1696324739453" duration="726000" />
+      <workItem from="1696324739453" duration="1966000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding web Service">
+      <created>1696325623284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696325623284</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding web Service" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding web Service" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

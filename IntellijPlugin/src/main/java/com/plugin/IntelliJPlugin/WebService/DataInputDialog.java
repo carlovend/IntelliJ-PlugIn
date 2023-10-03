@@ -1,4 +1,4 @@
-package com.plugin.pluginfinale.WebService;
+package com.plugin.IntelliJPlugin.WebService;
 
 import com.intellij.openapi.ui.DialogWrapper;
 import org.jetbrains.annotations.Nullable;

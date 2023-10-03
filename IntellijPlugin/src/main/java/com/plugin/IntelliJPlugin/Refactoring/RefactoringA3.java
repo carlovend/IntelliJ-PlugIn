@@ -1,4 +1,4 @@
-package com.plugin.pluginfinale.Refactoring;
+package com.plugin.IntelliJPlugin.Refactoring;
 
 import com.intellij.notification.Notification;
 import com.intellij.notification.NotificationType;

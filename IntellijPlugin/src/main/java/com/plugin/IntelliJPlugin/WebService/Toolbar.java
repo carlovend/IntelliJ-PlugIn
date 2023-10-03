@@ -1,4 +1,4 @@
-package com.plugin.pluginfinale.WebService;
+package com.plugin.IntelliJPlugin.WebService;
 
 
 import com.intellij.openapi.actionSystem.AnAction;
@@ -18,7 +18,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
 
-import static com.plugin.pluginfinale.Actions.HighlightAntipattern.action;
+import static com.plugin.IntelliJPlugin.Actions.HighlightAntipattern.action;
 
 
 public class Toolbar extends AnAction {

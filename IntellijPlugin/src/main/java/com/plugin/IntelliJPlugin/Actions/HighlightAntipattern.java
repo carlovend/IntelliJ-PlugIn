@@ -1,4 +1,4 @@
-package com.plugin.pluginfinale.Actions;
+package com.plugin.IntelliJPlugin.Actions;
 
 
 import com.intellij.openapi.actionSystem.AnActionEvent;
@@ -20,7 +20,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import static com.plugin.pluginfinale.Refactoring.RefactoringD1.showNotification;
+import static com.plugin.IntelliJPlugin.Refactoring.RefactoringD1.showNotification;
 
 
 public class HighlightAntipattern {

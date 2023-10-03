@@ -1,11 +1,11 @@
-package com.plugin.pluginfinale.Refactoring;
+package com.plugin.IntelliJPlugin.Refactoring;
 
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.vfs.LocalFileSystem;
 import com.intellij.psi.*;
 import com.intellij.psi.util.PsiTreeUtil;
 
-import static com.plugin.pluginfinale.Refactoring.RefactoringD1.showNotification;
+import static com.plugin.IntelliJPlugin.Refactoring.RefactoringD1.showNotification;
 
 public class RefactoringA1 {
 

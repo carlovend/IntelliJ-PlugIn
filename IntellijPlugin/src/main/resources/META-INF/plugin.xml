@@ -24,7 +24,7 @@
     <!-- Extension points defined by the plugin.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-extension-points.html -->
     <extensions defaultExtensionNs="com.intellij">
-        <editorFactoryMouseListener implementation="com.plugin.pluginfinale.Actions.MyEditorMouseListener" />
+        <editorFactoryMouseListener implementation="com.plugin.IntelliJPlugin.Actions.MyEditorMouseListener" />
         <notificationGroup id="Custom Notification Group"
                            displayType="BALLOON"
                            />
@@ -33,7 +33,7 @@
 
 
     <actions>
-        <action id="com.plugin.pluginfinale.WebService.Toolbar" class="com.plugin.pluginfinale.WebService.Toolbar" text="Run IDEAL"
+        <action id="com.plugin.IntelliJPlugin.WebService.Toolbar" class="com.plugin.IntelliJPlugin.WebService.Toolbar" text="Run IDEAL"
                 description="Esegue il comando">
             <add-to-group group-id="ToolsMenu" anchor="first"/>
         </action>

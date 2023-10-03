@@ -1,4 +1,4 @@
-package com.plugin.pluginfinale.Actions;
+package com.plugin.IntelliJPlugin.Actions;
 
 import com.intellij.notification.Notification;
 import com.intellij.notification.NotificationType;
@@ -17,10 +17,10 @@ import com.intellij.openapi.ui.popup.BalloonBuilder;
 import com.intellij.openapi.ui.popup.JBPopupFactory;
 import com.intellij.ui.JBColor;
 import com.intellij.ui.awt.RelativePoint;
-import com.plugin.pluginfinale.Refactoring.RefactoringA1;
-import com.plugin.pluginfinale.Refactoring.RefactoringA2;
-import com.plugin.pluginfinale.Refactoring.RefactoringA3;
-import com.plugin.pluginfinale.Refactoring.RefactoringD1;
+import com.plugin.IntelliJPlugin.Refactoring.RefactoringA1;
+import com.plugin.IntelliJPlugin.Refactoring.RefactoringA2;
+import com.plugin.IntelliJPlugin.Refactoring.RefactoringA3;
+import com.plugin.IntelliJPlugin.Refactoring.RefactoringD1;
 import org.jetbrains.annotations.NotNull;
 
 import javax.swing.*;
